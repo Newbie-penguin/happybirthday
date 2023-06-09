@@ -2,6 +2,12 @@
   text-align: center;
 }
 
+* {
+  background-color: #14111a;
+  font-family: "Bodoni MT", Didot, "Didot LT STD", "Book Antiqua", Garamond, "Times New Roman", serif;
+  margin: 20px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

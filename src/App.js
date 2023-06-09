@@ -1,15 +1,20 @@
-import logo from './logo.svg';
+import { BrowserRouter, Route, Routes } from 'react-router-dom'
+import Home from './components/Home';
+import Scarf from './components/Scarf';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-       <p>Testing</p>
-      </header>
+      <BrowserRouter>
+        <Routes>
+          <Route path='/' element={<Home />} />
+          <Route path='/scarf' element={<Scarf />} />
+        </Routes>
+      </BrowserRouter>
     </div>
   );
 }
 
 export default App;
+
