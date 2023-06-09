@@ -6,7 +6,7 @@ const Scarf = () => {
   return (
     <>
     <div>
-        <img src={scarf} width={200} height={200} style={{ float: 'left' }}/>
+        <img src={scarf} width={200} alt = 'scarf' height={200} style={{ float: 'left' }}/>
         <h2 style={{color:"#fcfecf"}}>About this product:</h2>
         <h3 style={{color:"#fcfecf", fontFamily:'monospace'}}>The artisan behind this scarf harmonized an exquisite blend of 
             impeccable craftsmanship and artistic ingenuity, weaving a tapestry of 

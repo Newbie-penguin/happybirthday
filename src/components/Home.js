@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 const Home = () => {
   return (
     <div className="App">
-        <img src={roshni} width={200} height={200}/>
+        <img src={roshni} alt='Fashion logo' width={200} height={200}/>
         <h1 style={{color:"#fcfecf"}}>Roshi</h1>
         <h2 style={{color:"#fcfecf"}}>An exquisite embodiment of unrivaled opulence and refined elegance.</h2>
         <h3 style={{color:"#fcfecf"}}>Karl Lagerfield could not afford our scarves</h3>
