@@ -7,8 +7,10 @@ const Home = () => {
     <div className="App">
         <img src={roshni} alt='Fashion logo' width={200} height={200}/>
         <h1 style={{color:"#fcfecf"}}>Roshi</h1>
+        <h2 style={{color:"#fcfecf"}}> <i>By Roshni Poddar</i></h2>
+        <h2 style={{color:"#fcfecf"}}>The finest scarves in the world</h2>
         <h2 style={{color:"#fcfecf"}}>An exquisite embodiment of unrivaled opulence and refined elegance.</h2>
-        <h3 style={{color:"#fcfecf"}}>Karl Lagerfield could not afford our scarves</h3>
+        <h3 style={{color:"#fcfecf"}}>Fun Fact: Karl Lagerfield could not afford our scarves</h3>
         <div>
         <Link to="/scarf">
           <button

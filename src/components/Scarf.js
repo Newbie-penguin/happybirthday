@@ -12,7 +12,7 @@ const Scarf = () => {
             impeccable craftsmanship and artistic ingenuity, weaving a tapestry of 
             exclusivity that transcends the realms of mere fashion. Each individual 
             thread is delicately selected from the rarest source - OurOwnStores in Commercial Street, meticulously hand-spun 
-            with the utmost precision, and adorned with bespoke patterns that reflect the birthday boy's personal interests. Embracing the essence of understated extravagance, 
+            with a lot of love and care, and adorned with bespoke patterns that reflect the birthday boy's personal interests. Embracing the essence of understated extravagance, 
             this scarf exudes an air of palpable refinement, effortlessly 
             elevating any ensemble to the pinnacle of sartorial splendor. Its sumptuous 
             textures, as soft as a whisper, is achieved by immersing the scarf in water with some conditioner in it. 
@@ -20,6 +20,8 @@ const Scarf = () => {
              </h3>
 
             <h3 style={{color:"#fcfecf", fontFamily:'monospace', paddingBottom:'50px'}}>Discounted price- Priceless</h3>
+            <h3 style={{color:"#fcfecf", fontFamily:'monospace', paddingBottom:'50px'}}>Directions of use: Wear it often and immerse it for 20 mins in conditioner water once a couple of months to make it softer</h3>
+
             
             <h1 style={{color:"#fcfecf", fontFamily:'monospace'}}>Happy Birthday Ninad!</h1>
             <h1 style={{color:"#fcfecf", fontFamily:'monospace'}}>Have a great day and fantastic year ahead!</h1>
